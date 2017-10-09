@@ -1,4 +1,4 @@
-- 此模板fork自，原地址
+此模板fork自[@cnfeat](https://github.com/cnfeat)，感谢。
 
 
 ## GitbookTemplate 使用方法
